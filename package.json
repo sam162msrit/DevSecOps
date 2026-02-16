@@ -4,8 +4,7 @@
   "description": "A secure DevSecOps application",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "test": "pytest test_calc.py"
+    "start": "node app.js"
   },
   "keywords": [
     "devsecops",
