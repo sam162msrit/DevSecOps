@@ -1,1 +1,1 @@
-This is a test text fileS
+console.log("test1");
